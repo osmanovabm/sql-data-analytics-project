@@ -4,8 +4,8 @@ A comprehensive data analytics project with data exploration, analysis and repor
 The project is performed in **PostgreSQL**, adapted from a T-SQL/MS SQL Server course.
 The project is divided into two main parts: 
 
-**1. Exploratory Data Analysis (EDA)**  
-**2. Advanced Analytics.**
+**1. Exploratory Data Analysis (EDA)** (scripts 1-6)    
+**2. Advanced Analytics** (scripts 7-13).
 
 ## 📊 Project Overview
 
