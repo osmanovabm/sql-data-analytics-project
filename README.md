@@ -1,4 +1,4 @@
-# 📈 SQL Data Analytics Project
+# SQL Data Analytics Project
 
 A comprehensive data analytics project with data exploration, analysis and reporting. It is divided into 2 parts: 
 
