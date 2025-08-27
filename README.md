@@ -5,7 +5,8 @@ A comprehensive data analytics project with data exploration, analysis and repor
 **1. Exploratory Data Analysis - EDA** (scripts 1-6)    
 **2. Advanced Analytics** (scripts 7-13).
 
-The project is performed in **PostgreSQL**.
+The project is performed in **PostgreSQL**, adapted from a MS SQL Server course. 
+
 
 ## 📊 Project Overview
 
@@ -37,7 +38,6 @@ Conducted a deeper analysis to solve complex business problems and derive action
 
 ## Credits
 This project was developed as part of the "SQL Course" taught by [Baraa Khatib Salkini](https://github.com/DataWithBaraa/sql-data-analytics-project/tree/main) ([MIT Licensed](https://github.com/DataWithBaraa/sql-data-analytics-project/blob/main/LICENSE)).
-It is performed in **PostgreSQL**, adapted from a MS SQL Server course. 
 
 ## About Me
 I'm Burliyat Osmanova, a Junior Data Analyst with a foundation in Economics and practical experience in building analytical solutions for a medical organization. I am passionate about uncovering data-driven insights and leveraging technical skills like SQL, Python, and BI tools to solve business problems. This project is part of my hands-on learning journey.
