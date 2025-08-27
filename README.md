@@ -38,7 +38,5 @@ This project was developed as part of the "SQL Course" taught by [Baraa Khatib S
 ## About me
 I'm Burliyat Osmanova, junior data analyst with a foundation in Economics and practical experience in data analytics for a medical organization. I am passionate about uncovering data-driven insights and leveraging technical skills like SQL, Python and BI-tools to solve business problems. This project is a part of my hands-on experience. 
 
-## Contact:
-- **[LinkedIn](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)**
-- **[Telegram](https://t.me/osmanovabm)**
-- **[Mail](osmanovabm@gmail.com)**
+## Contact me:
+**[LinkedIn](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)**  |  **[Telegram](https://t.me/osmanovabm)**  |  **[Mail](osmanovabm@gmail.com)**
