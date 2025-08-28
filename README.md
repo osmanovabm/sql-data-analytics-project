@@ -40,7 +40,7 @@ Conducted a deeper analysis to solve complex business problems and derive action
 This project was developed as part of the "SQL Course" taught by [Baraa Khatib Salkini](https://github.com/DataWithBaraa/sql-data-analytics-project/tree/main) ([MIT Licensed](https://github.com/DataWithBaraa/sql-data-analytics-project/blob/main/LICENSE)).
 
 ## About Me
-I'm Burliyat Osmanova, a Junior Data Analyst with a foundation in Economics and practical experience in building analytical solutions for a medical organization. I am passionate about uncovering data-driven insights and leveraging technical skills like SQL, Python, and BI tools to solve business problems. This project is part of my hands-on learning journey.
+I'm Burliyat Osmanova, a Data Analyst with a foundation in Economics and practical experience in building analytical solutions for a medical organization. I am passionate about uncovering data-driven insights and leveraging technical skills like SQL, Python, and BI tools to solve business problems. This project is part of my hands-on learning journey.
 
 ## Contact Me
 - **LinkedIn:** [Burliyat Osmanova](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
