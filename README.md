@@ -6,7 +6,7 @@ A comprehensive data analytics project with data exploration, analysis and repor
 **2. Advanced Analytics** (scripts 7-13).
 
 The project is performed in **PostgreSQL**, adapted from a MS SQL Server course. 
-
+Designed as a portfolio project which highlights industry best practices in data analytics.
 
 ## 📊 Project Overview
 
